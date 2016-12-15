@@ -35,7 +35,7 @@ SUPPORTED_ENGINES = {
             'ssl-protocol',
             'ssl-certificates-path',
             'ssl-client-certificate-file',
-            'ssl-client-certificate-file",
+            'ssl-client-certificate-file',
             'ssl-client-key-file',
             'ssl-client-key-passphrase',
             'web-security',
